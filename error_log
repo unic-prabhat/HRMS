@@ -1,0 +1,5 @@
+[05-Jun-2021 21:05:14 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/jingaalala1027/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Jun-2021 21:05:18 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/jingaalala1027/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Jun-2021 21:05:23 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/jingaalala1027/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Jun-2021 05:00:59 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jingaalala1027/public_html/application/modules/template/views/includes/sidebar.php on line 117
+[07-Jun-2021 05:01:04 UTC] PHP Fatal error:  Can't use function return value in write context in /home/jingaalala1027/public_html/application/modules/template/views/includes/sidebar.php on line 117
